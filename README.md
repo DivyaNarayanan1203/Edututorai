@@ -1,2 +1,4 @@
 # Edututorai
-"https://045bd2f17a7830f534.gradio.live"
+DEMO VIDEO LINK:
+https://drive.google.com/file/d/1XEj1FRTuZCdO7FddCFySegCfeoDHPGFN/view?pli=1
+DOCUMENTATION :
